@@ -1,1 +1,1 @@
-https://github.com/Andanteassai/Ono_tebe_nado.git
+https://github.com/Andanteassai/ono-tebe-nado.git
